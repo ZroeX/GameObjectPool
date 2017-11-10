@@ -1,9 +1,9 @@
-﻿using ONIK.ObjectPool.Design;
+﻿using ZroeX.ObjectPool.Design;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ONIK.ObjectPool {
+namespace ZroeX.ObjectPool {
     public class EffectPool : MonoBehaviour {
         [Serializable]
         public class PoolPrefab {

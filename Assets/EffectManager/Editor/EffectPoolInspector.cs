@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace ONIK.ObjectPool.Editor {
+namespace ZroeX.ObjectPool.Editor {
     [CustomEditor( typeof( EffectPool ) )]
     public class EffectPoolInspector : UnityEditor.Editor {
         private SerializedProperty poolPrefabListProperty;

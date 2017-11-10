@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace ONIK.ObjectPool.Design {
+namespace ZroeX.ObjectPool.Design {
 	public class GameObjectPool {
 		private readonly GameObject[] prefabs;
 		private readonly Transform poolParent;

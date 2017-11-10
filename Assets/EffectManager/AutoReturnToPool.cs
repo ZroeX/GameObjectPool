@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ONIK.ObjectPool.Design {
+namespace ZroeX.ObjectPool.Design {
     public class AutoReturnToPool : MonoBehaviour {
         [SerializeField]
         private float returnTime = 2f;

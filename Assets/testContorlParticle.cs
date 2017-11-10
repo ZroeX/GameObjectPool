@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using ONIK.ObjectPool;
+using ZroeX.ObjectPool;
 
 public class testContorlParticle : MonoBehaviour {
 
